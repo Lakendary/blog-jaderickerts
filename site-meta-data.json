@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "The Investment Rookie",
+  "siteUrl": "https://blog.jaderickerts.com/",
+  "description": "A personal finance blog by Jade Rickerts",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Jade",
+    "description": "And this is my personal finance blog where I can write about my investment portfolio and other personal finance related topics. I aim to use this blog as a place to keep track of my progress and help me learn about the personal finance and investing. I hope you enjoy my content. :)"
   }
 }
