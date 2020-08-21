@@ -62,15 +62,22 @@ But now I'll put that stock under the microscope and apply what I've learned abo
 **EPS**: 1768.14
 **P/E Ratio**: 5.87
 
-The sector's average P/E is **7.21**. Capitec and Firstrand's P/E ratio is higher than that, meaning that investors have higher expectations for future earnings growth and will pay more for it. Stocks with a high P/E ratio is considered growth stock and is seen as a risky investment. 
+The sector's average P/E is **7.21**. **Capitec** and **Firstrand's** P/E ratio is higher than that, meaning that investors have higher expectations for future earnings growth and will pay more for it. Stocks with a high P/E ratio is considered growth stock and is seen as a risky investment. 
 
-Looking at the EPS of Capitec, it almost makes sense that the P/E ratio is that high. But I'm too sure why Firstrand has such a high P/E ratio. Maybe, like me, investors like the bank because of the products and services they offer.
+Looking at the EPS of **Capitec**, it almost makes sense that the P/E ratio is that high. But I'm too sure why **Firstrand** has such a high P/E ratio. Maybe, like me, investors like the bank because of the products and services they offer.
 
-Knowing what I know now about these two ratios, I would've probably bought Nedbank shares instead of Firstrand because of the P/E ratio. Its the lowest in the sector, so you get more bang for your buck. And they also have the second highest earnings. 
+Knowing what I know now about these two ratios, I would've probably bought **Nedbank** shares instead of **Firstrand** because of the P/E ratio. Its the lowest in the sector, so you get more bang for your buck. And they also have the second highest earnings. 
 
-But before I just dump my Firstrand shares, I'll wait for it to at least hit the R40 price mark so that I can at least make a bit of a profit. Maybe even wait to earn some income. 
+But before I just dump my **Firstrand** shares, I'll wait for it to at least hit the R40 price mark so that I can at least make a bit of a profit. Maybe even wait to earn some income. 
 
-I also want to learn more about the other ratios out there. Maybe Nedbank isn't such a great stock to buy. Why else would it be so cheap (earnings-wise).
+I also want to learn more about the other ratios out there. Maybe **Nedbank** isn't such a great stock to buy. Why else would it be so cheap (earnings-wise).
+
+## The portfolio
+![My Portfolio](../../static/assets/Annotation%202020-08-21%20075236.jpg "My portfolio 21 August 2020")
+
+Last week my portfolio showed a growth of 6.51% but this week its at 4.28%. I'm not stressed at all. It looks like the whole market wasn't doing to great. Lots of red everywhere. Since I'm looking for growth, I'm not worried, for now. But I randomly picked one or two stocks and the others I got some tips from friends I trust. This will change the more I learn about investments.
+
+Next week I'm getting paid, so it means I can invest in the market. I'll review some ETFs next week. I already have an idea on which ones I want to buy. However, I'll look at the EPS, P/E and any new ratio I chose to learn next week. 
 
 That's it for this week. Until next time. Thanks for reading.
 
