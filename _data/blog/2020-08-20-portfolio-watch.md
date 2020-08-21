@@ -6,7 +6,6 @@ title: Portfolio Watch
 metaDescription: 'Investments, Portfolio, Stock Market, Easy Equity'
 thumbnail: /assets/markus-spiske-5gGcn2PRrtc-unsplash.jpg
 ---
-
 ## Portfolio Watch: 20 August 2020
 
 Each week I'll try to learn something new about investments and apply that to my own portfolio.
@@ -28,10 +27,9 @@ The other challenge with comparing companies, even in the same industry, they st
 
 ***P/E* = Market Capitalization / Total Net Earnings**
 
-
 ## Firstrand Limited - my stock
 
-![FirstRand Stats](../src/assets/../../../static/assets/Firstrand%20Stats%202020-08-19.jpg "FirstRand Snapshot")
+![FirstRand Stats](/assets/Firstrand Stats 2020-08-19.jpg "FirstRand Snapshot")
 
 This is what the **EPS** and **P/E Ratio** of Firstrand Limited, one of the first of three stocks I bought when I opened by EasyEquity account. I didn't know what I was doing. I just wanted stock in a bank and I thought why not choose my bank. I bank with them for a good reason, why not have an invested interest in their welling being. 
 
@@ -39,28 +37,23 @@ But now I'll put that stock under the microscope and apply what I've learned abo
 
 ### ABSA
 
-**EPS**: 1749.31
-**P/E Ratio**: 4.32 
+**EPS**: 1749.31 **P/E Ratio**: 4.32 
 
 ### Capitec
 
-**EPS**: 5427.67
-**P/E Ratio**: 15.61
+**EPS**: 5427.67 **P/E Ratio**: 15.61
 
 ### Nedbank
 
-**EPS**: 2603.56
-**P/E Ratio**: 3.93 
+**EPS**: 2603.56 **P/E Ratio**: 3.93 
 
 ### RMB
 
-**EPS**: 21.38
-**P/E Ratio**: 6.22 
+**EPS**: 21.38 **P/E Ratio**: 6.22 
 
 ### Standard Bank
 
-**EPS**: 1768.14
-**P/E Ratio**: 5.87
+**EPS**: 1768.14 **P/E Ratio**: 5.87
 
 The sector's average P/E is **7.21**. **Capitec** and **Firstrand's** P/E ratio is higher than that, meaning that investors have higher expectations for future earnings growth and will pay more for it. Stocks with a high P/E ratio is considered growth stock and is seen as a risky investment. 
 
@@ -73,7 +66,8 @@ But before I just dump my **Firstrand** shares, I'll wait for it to at least hit
 I also want to learn more about the other ratios out there. Maybe **Nedbank** isn't such a great stock to buy. Why else would it be so cheap (earnings-wise).
 
 ## The portfolio
-![My Portfolio](../../static/assets/Annotation%202020-08-21%20075236.jpg "My portfolio 21 August 2020")
+
+![My Portfolio](/assets/Annotation 2020-08-21 075236.jpg "My portfolio 21 August 2020")
 
 Last week my portfolio showed a growth of 6.51% but this week its at 4.28%. I'm not stressed at all. It looks like the whole market wasn't doing to great. Lots of red everywhere. Since I'm looking for growth, I'm not worried, for now. But I randomly picked one or two stocks and the others I got some tips from friends I trust. This will change the more I learn about investments.
 
