@@ -31,7 +31,7 @@ The other challenge with comparing companies, even in the same industry, they st
 
 ![FirstRand Stats](/assets/Firstrand Stats 2020-08-19.jpg "FirstRand Snapshot")
 
-This is what the **EPS** and **P/E Ratio** of Firstrand Limited, one of the first of three stocks I bought when I opened by EasyEquity account. I didn't know what I was doing. I just wanted stock in a bank and I thought why not choose my bank. I bank with them for a good reason, why not have an invested interest in their welling being. 
+This is the **EPS** and **P/E Ratio** of Firstrand Limited, the first of three stocks I bought when I opened by EasyEquity account. I didn't know what I was doing. I just wanted stock in a bank and I thought why not choose my bank. I bank with them for a good reason, why not have an invested interest in their well-being. 
 
 But now I'll put that stock under the microscope and apply what I've learned about EPS and P/E ratio. Below are the ratios of all the other banks listed on the JSE.
 
@@ -57,7 +57,7 @@ But now I'll put that stock under the microscope and apply what I've learned abo
 
 The sector's average P/E is **7.21**. **Capitec** and **Firstrand's** P/E ratio is higher than that, meaning that investors have higher expectations for future earnings growth and will pay more for it. Stocks with a high P/E ratio is considered growth stock and is seen as a risky investment. 
 
-Looking at the EPS of **Capitec**, it almost makes sense that the P/E ratio is that high. But I'm too sure why **Firstrand** has such a high P/E ratio. Maybe, like me, investors like the bank because of the products and services they offer.
+Looking at the EPS of **Capitec**, it almost makes sense that the P/E ratio is that high. But I'm not too sure why **Firstrand** has such a high P/E ratio. Maybe, like me, investors like the bank because of the products and services they offer.
 
 Knowing what I know now about these two ratios, I would've probably bought **Nedbank** shares instead of **Firstrand** because of the P/E ratio. Its the lowest in the sector, so you get more bang for your buck. And they also have the second highest earnings. 
 
@@ -69,7 +69,7 @@ I also want to learn more about the other ratios out there. Maybe **Nedbank** is
 
 ![My Portfolio](/assets/Annotation 2020-08-21 075236.jpg "My portfolio 21 August 2020")
 
-Last week my portfolio showed a growth of 6.51% but this week its at 4.28%. I'm not stressed at all. It looks like the whole market wasn't doing to great. Lots of red everywhere. Since I'm looking for growth, I'm not worried, for now. But I randomly picked one or two stocks and the others I got some tips from friends I trust. This will change the more I learn about investments.
+Last week my portfolio showed a growth of 6.51% but this week its at 4.28%. I'm not stressed at all. It looks like the whole market wasn't doing too great. Lots of red everywhere. Since I'm looking for growth, I'm not worried, for now. But I randomly picked one or two stocks and the others I got some tips from friends I trust. This will change the more I learn about investments.
 
 Next week I'm getting paid, so it means I can invest in the market. I'll review some ETFs next week. I already have an idea on which ones I want to buy. However, I'll look at the EPS, P/E and any new ratio I chose to learn next week. 
 
