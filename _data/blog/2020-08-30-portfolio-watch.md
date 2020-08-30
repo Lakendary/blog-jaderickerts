@@ -36,7 +36,7 @@ Since my last post, I've sold my FirstRand Ltd shares. In that post I've set a t
 
 I'm still interested in owning shares in a company in the banking sector. So I'll be checking the stats of all the banks and determine which one would be the best to invest in.
 
-![Banking Dividends](../../static/assets/Annotation%202020-08-28%20085200.jpg "Banking Dividends")
+![Banking Dividends](/assets/Annotation 2020-08-28 085200.jpg "Banking Dividends")
 
 I checked the dividend stats for the 6 banks I reviewed last week. I could easily find the Dividend Yield, however, the Dividend Payout Ratio I had to calculate using the EPS and DPS.
 
@@ -54,7 +54,7 @@ I'm not sure what I'll be looking at next week. Maybe a debt ratio or something 
 
 ## The portfolio
 
-![My Portfolio](../../static/assets/Annotation%202020-08-28%20085153.jpg "My Portfolio")
+![My Portfolio](/assets/Annotation 2020-08-28 085153.jpg "My Portfolio")
 
 Last week my portfolio showed a growth of 4.28% and this week I'm pleased to annouce that it increased to 5.15%. Almost up a whole percent. Besides selling the Firstrand stock, I invested into 3 ETFs. After I bought the ETFs, I saw a European ETF that I didn't find in my initial search. I'm not sure how I searched, but I will probably invest in it soon. 
 
@@ -63,17 +63,21 @@ My portfolio now has 64% ETFs and 36% Equities, which used to be 45% and 55% res
 Here are the ETFs I bought this week.
 
 ### Bought 11.5741x 1nvest S&P500 Info Tech Index Feeder ETF @ 1,296.00
-![S&P500 Info Tech](../../static/assets/Annotation%202020-08-28%20085145.jpg "1nvest S&P500 Info Tech")
+
+![S&P500 Info Tech](/assets/Annotation 2020-08-28 085145.jpg "1nvest S&P500 Info Tech")
 
 This ETF was performing well for me. It was a no brainer for me. Put in more in those areas that are performing well. I am aware that there might be a bubble developing in tech, but I might as well ride the wave for now. I'll monitor the situation closely.
 
-### Bought 2.5210x Satrix S&P 500 ETF @ 5,950.00 
-![S&P500](../../static/assets/Annotation%202020-08-28%20085118.jpg "Satrix S&P500")
+### Bought 2.5210x Satrix S&P 500 ETF @ 5,950.00
+
+![S&P500](/assets/Annotation 2020-08-28 085118.jpg "Satrix S&P500")
 
 This ETF was also performing well for me. I probably should've bought the Euro ETF with the money I used to buy this one. But I thought I had an ETF in NASDAQ, why not buy one in the S&P500 as well.
 
-### Bought 3.3520x Satrix MSCI China Feeder Portfolio @ 5,898.00 
-![MSCI China](../../static/assets/Annotation%202020-08-28%20085139.jpg "Satrix China")
+### Bought 3.3520x Satrix MSCI China Feeder Portfolio @ 5,898.00
+
+![MSCI China](/assets/Annotation 2020-08-28 085139.jpg "Satrix MSCI China")
+
 This is a new ETF. Not much history, but China is the 2nd largest, if not the largest, economy in the world. I should probably invest there as well. So I bought this just to diversify my portfolio.
 
 When I was looking for an ETF, I was mainly focusing on the geographical location and the TER (which is the cost of buying the ETF). So I based my decisions on that. 
