@@ -6,7 +6,7 @@ title: Portfolio Watch
 metaDescription: 'Investments, Portfolio, Stock Market, Easy Equity'
 thumbnail: /assets/markus-spiske-5gGcn2PRrtc-unsplash.jpg
 ---
-## Portfolio Watch: 04 September 2020
+## Portfolio Watch: 08 September 2020
 
 In this series of Portfolio Watch, I have a look at the performance of my portfolio. I also look into a new investment concept, explain it in my own words and try to implement it in my own portfolio. This week I look at return on equity and return on assets.
 
