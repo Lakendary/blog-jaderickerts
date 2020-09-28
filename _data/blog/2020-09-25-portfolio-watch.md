@@ -4,7 +4,7 @@ path: /2020-09-25_Portfolio_Watch
 date: 2020-09-25T16:33:00.000Z
 title: Portfolio Watch
 metaDescription: 'Investments, Portfolio, Stock Market, Easy Equity'
-thumbnail: /assets/-spiske-5gGcn2PRrtc-unsplash.jpg
+thumbnail: /assets/markus-spiske-5gGcn2PRrtc-unsplash.jpg
 ---
 # Portfolio Watch: 25 September 2020
 
@@ -18,7 +18,7 @@ So one week I'll give an update on my portfolio. The following week I will do so
 
 ## The portfolio (before buying)
 
-![My Portfolio Before Purchases](./../../static/assets/Portfolio%20Watch/Annotation%202020-09-25%20152808.jpg "My Portfolio Before Purchases")
+![My Portfolio Before Purchases](/assets/Annotation 2020-09-25 152808.jpg "My Portfolio Before Purchases")
 
 Things aren't looking too great with my portfolio. There was one point last week where every single one of my ETFs were in RED. I then decided that I needed to step back from my portfolio otherwise the negative numbers could impact my mood and lead to me making foolish decisions.
 
@@ -40,7 +40,7 @@ My thinking is that I can buy more Multichoice stock, now that it's 16% less tha
 
 ## The portfolio (after buying)
 
-![My Portfolio After Purchases](./../../static/assets/Portfolio%20Watch/../Portfolio%20Watch/Annotation%202020-09-25%20162928.jpg "My Portfolio After Purchases")
+![My Portfolio After Purchases](/assets/Annotation 2020-09-25 162928.jpg "My Portfolio After Purchases")
 
 This already looks a bit better by just buying more of the stuff I'm already making losses on. LOL. I know, this is all down to a small gain I made between the time I took the two screenshots.
 
